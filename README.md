@@ -19,3 +19,7 @@ In this assignment, you will analyze a telecommunications dataset to understand 
 - Submit a link to a GitHub repository containing a Google Colab notebook with well-documented code and explanations for each task. Ensure the notebook follows best practices for documentation and organization.
 
 This assignment emphasizes not only the technical modeling aspects but also the importance of clear communication and documentation in data analysis.
+
+
+#### NOTE:
+For this assignment, I used ChatGPT and CoPilot to help me write up the interpretations of the models. 
